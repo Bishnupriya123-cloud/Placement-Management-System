@@ -1,5 +1,4 @@
 # Placement-Management-System
-College Placement Management System
-git.clone
-https://github.com/your-username/placement-management-system.git
+This is a placement-management-system end to end project
 
+Like this vedio! :)
